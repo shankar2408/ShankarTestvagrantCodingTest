@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="108" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+  <suite name="Default suite" duration-ms="119" started-at="2023-08-20T22:28:20 IST" finished-at="2023-08-20T22:28:21 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="108" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+    <test name="Default test" duration-ms="119" started-at="2023-08-20T22:28:20 IST" finished-at="2023-08-20T22:28:21 IST">
       <class name="testVagrant.SongplaylistTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test1" duration-ms="22" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test1" duration-ms="21" started-at="2023-08-20T22:28:21 IST" finished-at="2023-08-20T22:28:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test2" duration-ms="6" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+        <test-method status="PASS" signature="test2()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test2" duration-ms="6" started-at="2023-08-20T22:28:21 IST" finished-at="2023-08-20T22:28:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="test3()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test3" duration-ms="2" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+        <test-method status="PASS" signature="test3()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test3" duration-ms="2" started-at="2023-08-20T22:28:21 IST" finished-at="2023-08-20T22:28:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method status="PASS" signature="test4()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test4" duration-ms="1" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+        <test-method status="PASS" signature="test4()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test4" duration-ms="2" started-at="2023-08-20T22:28:21 IST" finished-at="2023-08-20T22:28:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
-        <test-method status="PASS" signature="test5()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test5" duration-ms="1" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+        <test-method status="PASS" signature="test5()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test5" duration-ms="1" started-at="2023-08-20T22:28:21 IST" finished-at="2023-08-20T22:28:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test5 -->
-        <test-method status="PASS" signature="test6()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test6" duration-ms="2" started-at="2023-08-20T22:23:57 IST" finished-at="2023-08-20T22:23:57 IST">
+        <test-method status="PASS" signature="test6()[pri:0, instance:testVagrant.SongplaylistTest@7c29daf3]" name="test6" duration-ms="2" started-at="2023-08-20T22:28:21 IST" finished-at="2023-08-20T22:28:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test6 -->
